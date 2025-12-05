@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamran Mansory </h1>
 <h3 align="center">Senior Back-End DevOps Engineer (AWS, Nest.js, Node.js, Go)</h3>
 
-- 🔭 I’m currently working on [medical](https://medicalstus.ir/)
-
 - 🌱 I’m currently learning **ML, Blockchain**
 
 - 💬 Ask me about **Node.js, JS, TS, Go, Docker, Mongo, SQL, Game, Trade, Sport, Psychology**
