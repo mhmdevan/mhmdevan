@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ML, Blockchain**
 
-- 💬 Ask me about **Node.js, JS, TS, Go, Docker, Mongo, SQL, Game, Trade, Sport, Psychology**
+- 💬 Ask me about **Node.js, JS, TS, Go, Python, Docker, Mongo, SQL, Game, Trade, Sport, Psychology**
 
 - 📫 How to reach me **mhmd.esm3@gmail.com**
 
