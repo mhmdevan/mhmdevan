@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamran Mansory </h1>
-<h3 align="center">Senior Back-End DevOps Engineer (AWS, Nest.js, Node.js, Go)</h3>
+<h3 align="center">Senior Backend & ML Engineer (Go, Node.js, DevOps, AWS)</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Backend+%26+ML+Engineer;Go+%7C+Node.js+%7C+Python+%7C+DevOps;Distributed+systems+%26+ML+in+production;Always+learning%3A+ML%2C+RAG%2C+Blockchain" alt="Typing SVG" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **ML, Blockchain**
 
