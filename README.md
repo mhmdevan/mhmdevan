@@ -57,18 +57,19 @@
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,go,python,ts,js,graphql" />
 </p>
 
-- Node.js (NestJS, Express, Fastify), TypeScript  
-- Go (Gin, gRPC, REST), Python (Flask/FastAPI, ML tooling)  
-- REST, GraphQL, gRPC, WebSockets, Socket.IO  
-- RAG chatbots (Qdrant, vector search), high-load APIs, CQRS, event-driven flows  
+- **Node.js / TypeScript** – NestJS, Express, Fastify, Socket.IO, REST, GraphQL, gRPC
+- **Go** – Gin, gRPC, REST APIs, worker pools, Telegram bots, scraping, distributed cache
+- **Python** – Flask/FastAPI, ETL, ML services (pandas, NumPy, scikit-learn)
+- Event-driven systems with **Kafka** / **RabbitMQ**, CQRS, modular monoliths, microservices
+- RAG chatbots over docs with **Qdrant** / vector search
 
 #### 🎨 Frontend (production-ready)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,scss,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,scss,html,css,vite,vercel,redux" />
 </p>
 
-- **React & Next.js** – SSR/SSG, SEO, i18n & multi-language, Core Web Vitals, content-heavy sites
+- **React & Next.js** – SSR/SSG, SEO, Redux, i18n & multi-language, Vercel, Core Web Vitals, content-heavy sites
 - **Vue 3** – Vite + Pinia + Tailwind, SPA dashboards  
 - **Angular (enterprise)** – standalone APIs, Signals, RxJS stores, Angular Material, PWA via service worker, ng2-charts
 - TailwindCSS, SCSS/SASS, Material UI, Ant Design, classic HTML/CSS/JS  
@@ -81,7 +82,19 @@
 
 - PostgreSQL, MySQL, MongoDB (aggregation), Redis, ClickHouse, DynamoDB  
 - Kafka, RabbitMQ — messaging, async workflows, ETL pipelines  
-- Reporting, analytics, BigQuery, forecasting models in production  
+- Reporting, analytics, BigQuery, ETL pipelines for business metrics
+
+#### 🤖 ML & Data Science (where I'm levelling up)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,fastapi,flask&perline=5" />
+</p>
+
+- Classical ML with **pandas, NumPy, scikit-learn** — regression, classification, clustering on real datasets  
+  (sales forecasting, California housing, spam detection, customer segmentation)
+- End-to-end pipelines: from **EDA → feature engineering → model selection & tuning (Grid/RandomSearchCV) → deployment**  
+  via FastAPI/Flask APIs, CLI tools, and occasional Streamlit dashboards
+- Ops around ML: model persistence with **joblib**, basic monitoring (drift checks like PSI, simple performance reports)
 
 #### ☁️ Cloud & DevOps
 
@@ -114,7 +127,7 @@
 ### 🚀 Some things I’ve built
 
 - **Production backends** with NestJS, Go and Flask: multi-tenant CRMs, exam platforms, news portals, VPN control planes  
-- **Data & ML pipelines**: Python + scikit-learn, ETL jobs, BigQuery, forecasting models wired into real services  
+- **Data & ML pipelines**: Python + scikit-learn, ETL jobs, BigQuery, forecasting models wired into real servicesm, regression, classification, clustering, spam detection, ML APIs (FastAPI/Streamlit)
 - **Distributed Go services**: REST + gRPC APIs, Telegram bots, distributed cache, weather & monitoring services  
 - **RAG assistants** with Qdrant + LLMs answering FAQ/support over custom documentation  
 - **High-load Node.js systems** with Kafka/RabbitMQ, Mongo/Postgres, WebSockets, CI/CD and full monitoring  
