@@ -1,24 +1,168 @@
-<h1 align="center">Hi 👋, I'm Kamran Mansory </h1>
-<h3 align="center">Senior Backend & ML Engineer (Go, Node.js, DevOps, AWS)</h3>
+<h1 align="center">Hey, I'm Mohammad 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Backend+%26+ML+Engineer;Go+%7C+Node.js+%7C+Python+%7C+DevOps;Distributed+systems+%26+ML+in+production;Always+learning%3A+ML%2C+RAG%2C+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Backend+%26+DevOps+Engineer;Node.js+%7C+Go+%7C+Python+ML;Cloud+%26+AI-powered+Backends;Always+Learning+%F0%9F%93%9A" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/kamran_mansoriii">
+    <img src="https://img.shields.io/badge/Telegram-@kamran_mansoriii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:mhmd.esm3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mhmd.esm3%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://datronis.com/en/">
+    <img src="https://img.shields.io/badge/Website-datronis.com-1f2937?style=for-the-badge&logo=firefox-browser" alt="Website" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **ML, Blockchain**
+---
 
-- 💬 Ask me about **Node.js, JS, TS, Go, Python, Docker, Mongo, SQL, Game, Trade, Sport, Psychology**
+### 👨‍💻 About me
 
-- 📫 How to reach me **mhmd.esm3@gmail.com**
+- ⚙️ Senior **Backend & DevOps** engineer (5+ years) — building production systems with **Node.js / NestJS**, **Go**, and **Python/ML**
+- ☁️ I design **end-to-end platforms**: from infra & CI/CD and observability, to APIs, data pipelines and real-time features
+- 🌍 Work across **EN / RU / FA**, remote-first, used to leading small teams, mentoring juniors and cleaning up legacy
+- 📍 Based in Russia (UTC+3), open to **remote** roles (EU-friendly timezones / worldwide)
+- 💼 Open to **Senior Backend / DevOps / Go / Node.js** roles (full-time, remote/hybrid)
+- ✅ Used to owning products long-term: from first commit to production, monitoring, incident handling and continuous improvement
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZxaEYTHSF9e_GsNf7TxxBjOsETylS1JS/view?usp=drive_link](https://drive.google.com/file/d/1ZxaEYTHSF9e_GsNf7TxxBjOsETylS1JS/view?usp=drive_link)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🎯 For recruiters / hiring managers (10-second version)
+
+- Senior **Backend & DevOps** (5+ years) — Node.js (NestJS), Go, cloud-native backends
+- Experience in **edtech, content platforms, infra/VPN, B2B SaaS**
+- Strong in **architecture → implementation → CI/CD → monitoring** and mentoring juniors
+- Looking for **Senior Backend (Node.js / Go) / DevOps** roles — remote, EU-friendly timezones, long-term collaboration
+
+
+---
+
+### 🔭 What I'm into right now
+
+- 🧠 **Learning** — deeper CS, architecture, distributed systems (not just chasing new frameworks)
+- 🧱 **Technology & blockchain** — C++-style financial engines, secure infra, high-throughput systems
+- 🤖 **Forex robots & algo-trading** — data collection, backends, monitoring, ML-flavoured experiments
+- 🗣 **Communication & teaching** — clear READMEs, docs, mentoring, explaining complex systems in simple language
+- 📚 **Reading** — system design, engineering culture, business & psychology
+
+---
+
+### ⚙️ Tech radar (core stack)
+
+#### 🧩 Backend & distributed systems
+
 <p align="left">
-<a href="https://linkedin.com/in/mohammad-eslamnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-eslamnia" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,go,python,ts,js,graphql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- Node.js (NestJS, Express, Fastify), TypeScript  
+- Go (Gin, gRPC, REST), Python (Flask/FastAPI, ML tooling)  
+- REST, GraphQL, gRPC, WebSockets, Socket.IO  
+- RAG chatbots (Qdrant, vector search), high-load APIs, CQRS, event-driven flows  
+
+#### 🎨 Frontend (production-ready)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,scss,html,css" />
+</p>
+
+- **React & Next.js** – SSR/SSG, SEO, i18n & multi-language, Core Web Vitals, content-heavy sites
+- **Vue 3** – Vite + Pinia + Tailwind, SPA dashboards  
+- **Angular (enterprise)** – standalone APIs, Signals, RxJS stores, Angular Material, PWA via service worker, ng2-charts
+- TailwindCSS, SCSS/SASS, Material UI, Ant Design, classic HTML/CSS/JS  
+
+#### 🗄️ Data, queues & analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+- PostgreSQL, MySQL, MongoDB (aggregation), Redis, ClickHouse, DynamoDB  
+- Kafka, RabbitMQ — messaging, async workflows, ETL pipelines  
+- Reporting, analytics, BigQuery, forecasting models in production  
+
+#### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,githubactions" />
+</p>
+
+- AWS (ECS, EC2, S3, CloudFront, ACM, Route53), GCP + BigQuery, DigitalOcean  
+- Docker, Docker Compose, Kubernetes, Nginx, Linux server administration  
+- CI/CD: GitHub Actions, Jenkins, Argo/GitOps, CircleCI  
+- Monitoring & observability with Grafana, Prometheus, logs & alerts  
+
+#### 📐 Practices
+
+- Clean architecture, microservices, CQRS, event-driven systems  
+- SOLID, KISS, DRY, YAGNI, TDD/BDD (Jest, Mocha/Chai, Go test, pytest)  
+- Agile / Scrum, code reviews, reverse engineering legacy systems  
+
+---
+
+### 🏆 Impact in numbers
+
+- 🚀 Scaled an exam & student platform to **450k+ users** using NestJS, PostgreSQL, Kafka, Kubernetes, Grafana and full CI/CD
+- 🌍 Shipped a **14-language** news platform (NestJS + Next.js + PostgreSQL + Docker) and **cut AWS costs by ~$2000/month**
+- 👥 Delivered a business platform for **5000+ users** on AWS ECS (EC2, S3, CloudFront, ACM, Route53) with real-time chat (WebSockets) and a blog system
+- 🔐 Designed and shipped a VPN control-plane in **Go + gRPC + PostgreSQL** on top of Xray, with traffic accounting, link management and observability
+
+---
+
+### 🚀 Some things I’ve built
+
+- **Production backends** with NestJS, Go and Flask: multi-tenant CRMs, exam platforms, news portals, VPN control planes  
+- **Data & ML pipelines**: Python + scikit-learn, ETL jobs, BigQuery, forecasting models wired into real services  
+- **Distributed Go services**: REST + gRPC APIs, Telegram bots, distributed cache, weather & monitoring services  
+- **RAG assistants** with Qdrant + LLMs answering FAQ/support over custom documentation  
+- **High-load Node.js systems** with Kafka/RabbitMQ, Mongo/Postgres, WebSockets, CI/CD and full monitoring  
+
+---
+
+### 📊 GitHub vibes
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=mhmdevan&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mhmdevan&theme=tokyonight&margin-w=10&margin-h=10&title=Followers,Repositories,Commit,Experience,Joined2020,MultiLanguage"
+  />
+</p>
+
+---
+
+### 🔥 Key skill badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+</p>
+
+---
+
+### 👁️ Profile views
+
+<p align="center">
+  <a href="https://github.com/mhmdevan">
+    <img src="https://komarev.com/ghpvc/?username=mhmdevan&style=flat-square&color=blue" alt="Profile views" />
+  </a>
+</p>
+
+---
+
+> If you’re hiring for backend / DevOps (Node.js or Go) and need someone who can own systems end-to-end, feel free to reach out on Telegram or email.
