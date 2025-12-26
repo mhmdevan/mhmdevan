@@ -132,11 +132,9 @@
 - **RAG assistants** with Qdrant + LLMs answering FAQ/support over custom documentation  
 - **High-load Node.js systems** with Kafka/RabbitMQ, Mongo/Postgres, WebSockets, CI/CD and full monitoring  
 
----
-
 ### 📊 GitHub vibes
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=mhmdevan&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true"
     alt="GitHub streak"
@@ -147,7 +145,7 @@
   <img
     src="https://github-profile-trophy.vercel.app/?username=mhmdevan&theme=tokyonight&margin-w=10&margin-h=10&title=Followers,Repositories,Commit,Experience,Joined2020,MultiLanguage"
   />
-</p>
+</p> -->
 
 ---
 
